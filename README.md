@@ -20,6 +20,9 @@ in a new terminal:
 uv run main.py
 """
 
+### Fork my fake_weather_mcp repo for proper execution of this project
+
+
 
 
 
