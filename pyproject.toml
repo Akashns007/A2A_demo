@@ -1,0 +1,15 @@
+[project]
+name = "agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "a2a>=0.44",
+    "a2a-sdk>=0.3.0",
+    "asyncio>=4.0.0",
+    "openai-agents[litellm]>=0.2.4",
+    "python-a2a>=0.5.9",
+    "python-dotenv>=1.1.1",
+    "starlette>=0.47.2",
+]
